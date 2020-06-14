@@ -40,4 +40,8 @@ body{
 .logo{
     width: 20px;
     margin-right: 10px;
+#footer{
+    text-align: center;
+    padding: 10px;
+    background: #f2f2f2;
 }
